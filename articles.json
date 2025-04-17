@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "my-first-post",
+    "title": "My First Post",
+    "description": "This is a short description of the post.",
+    "previewImage": "articles/my-first-post/preview.jpg",
+    "date": "2025-04-17"
+  },
+  {
+    "slug": "another-post",
+    "title": "Another Post",
+    "description": "Another post teaser.",
+    "previewImage": "articles/another-post/preview.png",
+    "date": "2025-04-10"
+  }
+]
