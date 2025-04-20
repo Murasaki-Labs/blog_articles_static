@@ -8,3 +8,9 @@ previewImage: "kitten.png"
 # Welcome to my blog!
 
 This is the body of the blog post in markdown.
+
+Here is an image of a kitten
+
+![alt text](https://raw.githubusercontent.com/Murasaki-Labs/blog_articles_static/refs/heads/main/articles/another-post/kitten.png)
+
+<b>bold text</b>
