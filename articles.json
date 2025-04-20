@@ -3,14 +3,14 @@
     "slug": "my-first-post",
     "title": "My First Post",
     "description": "This is a short description of the post.",
-    "previewImage": "articles/my-first-post/preview.jpg",
+    "previewImage": "https://raw.githubusercontent.com/Murasaki-Labs/blog_articles_static/refs/heads/main/articles/my-first-post/kitten.png",
     "date": "2025-04-17"
   },
   {
     "slug": "another-post",
     "title": "Another Post",
     "description": "Another post teaser.",
-    "previewImage": "articles/another-post/preview.png",
+    "previewImage": "https://raw.githubusercontent.com/Murasaki-Labs/blog_articles_static/refs/heads/main/articles/another-post/kitten.png",
     "date": "2025-04-10"
   }
 ]
