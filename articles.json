@@ -10,10 +10,10 @@
     },
     "tags": ["DevOps"],
     "difficulty": "beginner",
-    "coverImage": "https://raw.githubusercontent.com/Murasaki-Labs/blog_articles_static/refs/heads/main/articles/my-first-post/kitten.png",
+    "coverImage": "https://raw.githubusercontent.com/Murasaki-Labs/blog_articles_static/refs/heads/main/articles/my-first-post/cover.png",
     "readingTime": "5 min",
     "canonicalUrl": "https://blog.jlpt-dojo.org/articles/my-first-post",
-    "ogImage": "https://raw.githubusercontent.com/Murasaki-Labs/blog_articles_static/refs/heads/main/articles/my-first-post/kitten.png"
+    "ogImage": "https://raw.githubusercontent.com/Murasaki-Labs/blog_articles_static/refs/heads/main/articles/my-first-post/cover.png"
   },
   {
     "slug": "nginx-shutdown-strategy",
