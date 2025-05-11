@@ -2,15 +2,25 @@
   {
     "slug": "my-first-post",
     "title": "My First Post",
-    "description": "This is a short description of the post.",
-    "previewImage": "https://raw.githubusercontent.com/Murasaki-Labs/blog_articles_static/refs/heads/main/articles/my-first-post/kitten.png",
-    "date": "2025-04-17"
+    "description": "An introductory post about my journey into blogging.",
+    "date": "2025-04-01",
+    "author": "Gennadii Genin",
+    "tags": ["DevOps"],
+    "coverImage": "https://raw.githubusercontent.com/Murasaki-Labs/blog_articles_static/refs/heads/main/articles/my-first-post/kitten.png",
+    "readingTime": "5 min",
+    "canonicalUrl": "https://blog.jlpt-dojo.org/articles/my-first-post",
+    "ogImage": "https://raw.githubusercontent.com/Murasaki-Labs/blog_articles_static/refs/heads/main/articles/my-first-post/kitten.png"
   },
   {
-    "slug": "another-post",
-    "title": "Another Post",
-    "description": "Another post teaser.",
-    "previewImage": "https://raw.githubusercontent.com/Murasaki-Labs/blog_articles_static/refs/heads/main/articles/another-post/kitten.png",
-    "date": "2025-04-10"
+    "slug": "nginx-shutdown-strategy",
+    "title": "NGINX shutdown strategy",
+    "description": "High-SLA NGINX Shutdown Strategy on Kubernetes.",
+    "date": "2025-05-11",
+    "author": "Gennadii Genin",
+    "tags": ["DevOps", "SRE", "Nginx"],
+    "coverImage": "https://raw.githubusercontent.com/Murasaki-Labs/blog_articles_static/refs/heads/main/articles/nginx-shutdown-strategy/cover.png",
+    "readingTime": "9 min",
+    "canonicalUrl": "https://blog.jlpt-dojo.org/articles/nginx-shutdown-strategy",
+    "ogImage": "https://raw.githubusercontent.com/Murasaki-Labs/blog_articles_static/refs/heads/main/articles/nginx-shutdown-strategy/cover.png"
   }
 ]
