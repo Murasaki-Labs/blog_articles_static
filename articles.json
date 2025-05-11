@@ -4,7 +4,10 @@
     "title": "My First Post",
     "description": "An introductory post about my journey into blogging.",
     "date": "2025-04-01",
-    "author": "Gennadii Genin",
+    "author": {
+      "name": "Gennadii Genin",
+      "avatar": "https://avatars.githubusercontent.com/u/106681061"
+    },
     "tags": ["DevOps"],
     "difficulty": "beginner",
     "coverImage": "https://raw.githubusercontent.com/Murasaki-Labs/blog_articles_static/refs/heads/main/articles/my-first-post/kitten.png",
@@ -17,7 +20,10 @@
     "title": "NGINX shutdown strategy",
     "description": "High-SLA NGINX Shutdown Strategy on Kubernetes.",
     "date": "2025-05-11",
-    "author": "Gennadii Genin",
+    "author": {
+      "name": "Gennadii Genin",
+      "avatar": "https://avatars.githubusercontent.com/u/106681061"
+    },
     "tags": ["DevOps", "SRE", "Nginx"],
     "difficulty": "medium",
     "coverImage": "https://raw.githubusercontent.com/Murasaki-Labs/blog_articles_static/refs/heads/main/articles/nginx-shutdown-strategy/cover.png",
