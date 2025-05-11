@@ -5,10 +5,6 @@ description: "Make sure your nginx shuts down accordingly to Kubernetes expectat
 previewImage: "cover.png"
 ---
 
-# High-SLA NGINX Shutdown Strategy on Kubernetes
-
-![alt text](https://raw.githubusercontent.com/Murasaki-Labs/blog_articles_static/refs/heads/main/articles/nginx-shutdown-strategy/cover.png)
-
 ## 🎯 Goal
 
 Ensure **zero-downtime** and **no client connection rejections** during Pod shutdown,
